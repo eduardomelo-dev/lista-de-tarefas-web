@@ -2,6 +2,12 @@
 
 Aplicação web simples para cadastrar, concluir e remover tarefas usando HTML, CSS e JavaScript.
 
+## Demonstração
+
+Acesse a versão publicada pelo GitHub Pages:
+
+[https://eduardomelo-dev.github.io/lista-de-tarefas-web/](https://eduardomelo-dev.github.io/lista-de-tarefas-web/)
+
 ## Objetivo
 
 Este projeto foi criado para praticar manipulação do DOM, eventos, estado em JavaScript e organização básica de uma aplicação frontend.
